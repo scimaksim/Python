@@ -1,0 +1,261 @@
+\BOOKMARK [1][-]{section.1}{Arithmetic}{}% 1
+\BOOKMARK [2][-]{subsubsection.1.0.1}{Division and Integer \(Floor\) Division}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Booleans, logical and comparison operators }{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Booleans}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Logical Operators}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Boolean Interpretation}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.4}{Short Circuiting Behavior}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Variables and Assignments}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.6}{Constants}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.7}{Comparison or Assignment}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.8}{Strings - The Basics}{section.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.8.1}{Character Indexing}{subsection.2.8}% 12
+\BOOKMARK [3][-]{subsubsection.2.8.2}{Strings are immutable!}{subsection.2.8}% 13
+\BOOKMARK [3][-]{subsubsection.2.8.3}{String Slices}{subsection.2.8}% 14
+\BOOKMARK [2][-]{subsection.2.9}{Conversion Functions}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.10}{Input and Output}{section.2}% 16
+\BOOKMARK [2][-]{subsection.2.11}{Comments}{section.2}% 17
+\BOOKMARK [3][-]{subsubsection.2.11.1}{Documentation and Strings}{subsection.2.11}% 18
+\BOOKMARK [3][-]{subsubsection.2.11.2}{A Tip Calculator}{subsection.2.11}% 19
+\BOOKMARK [1][-]{section.3}{Lists}{}% 20
+\BOOKMARK [2][-]{subsection.3.1}{What is a List?}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.2}{Indexing and Slicing}{section.3}% 22
+\BOOKMARK [2][-]{subsection.3.3}{Concatenating Lists}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.4}{Nested Lists}{section.3}% 24
+\BOOKMARK [2][-]{subsection.3.5}{Membership Test}{section.3}% 25
+\BOOKMARK [2][-]{subsection.3.6}{Copying Lists}{section.3}% 26
+\BOOKMARK [2][-]{subsection.3.7}{What else can we do with a list?}{section.3}% 27
+\BOOKMARK [3][-]{subsubsection.3.7.1}{Extend or append?}{subsection.3.7}% 28
+\BOOKMARK [2][-]{subsection.3.8}{From strings to lists...and back}{section.3}% 29
+\BOOKMARK [1][-]{section.4}{Loops}{}% 30
+\BOOKMARK [2][-]{subsection.4.1}{Range}{section.4}% 31
+\BOOKMARK [1][-]{section.5}{Functions}{}% 32
+\BOOKMARK [2][-]{subsection.5.1}{What is a function?}{section.5}% 33
+\BOOKMARK [3][-]{subsubsection.5.1.1}{DRY - Don't Repeat Yourself}{subsection.5.1}% 34
+\BOOKMARK [2][-]{subsection.5.2}{Function Definition}{section.5}% 35
+\BOOKMARK [2][-]{subsection.5.3}{Function Calls}{section.5}% 36
+\BOOKMARK [2][-]{subsection.5.4}{Arguments and Parameters}{section.5}% 37
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Required positional arguments}{subsection.5.4}% 38
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Keyword Arguments}{subsection.5.4}% 39
+\BOOKMARK [3][-]{subsubsection.5.4.3}{Default Arguments}{subsection.5.4}% 40
+\BOOKMARK [3][-]{subsubsection.5.4.4}{Example: Print Function Arguments}{subsection.5.4}% 41
+\BOOKMARK [2][-]{subsection.5.5}{What's in a Name?}{section.5}% 42
+\BOOKMARK [2][-]{subsection.5.6}{Functions and Variable Scope}{section.5}% 43
+\BOOKMARK [2][-]{subsection.5.7}{Pure Functions and Side Effects}{section.5}% 44
+\BOOKMARK [2][-]{subsection.5.8}{The Main Function}{section.5}% 45
+\BOOKMARK [2][-]{subsection.5.9}{Python Module}{section.5}% 46
+\BOOKMARK [2][-]{subsection.5.10}{Control Flow}{section.5}% 47
+\BOOKMARK [2][-]{subsection.5.11}{Global Variables?}{section.5}% 48
+\BOOKMARK [2][-]{subsection.5.12}{Lambda Functions}{section.5}% 49
+\BOOKMARK [1][-]{section.6}{Recursive Functions}{}% 50
+\BOOKMARK [2][-]{subsection.6.1}{Recursion}{section.6}% 51
+\BOOKMARK [2][-]{subsection.6.2}{Fibonacci Numbers Example}{section.6}% 52
+\BOOKMARK [1][-]{section.7}{Sequence Data Types}{}% 53
+\BOOKMARK [2][-]{subsection.7.1}{What are they?}{section.7}% 54
+\BOOKMARK [2][-]{subsection.7.2}{Indexing}{section.7}% 55
+\BOOKMARK [2][-]{subsection.7.3}{Membership Test}{section.7}% 56
+\BOOKMARK [2][-]{subsection.7.4}{Boolean Interpretation}{section.7}% 57
+\BOOKMARK [2][-]{subsection.7.5}{Length and Count}{section.7}% 58
+\BOOKMARK [2][-]{subsection.7.6}{Minimum and Maximum}{section.7}% 59
+\BOOKMARK [2][-]{subsection.7.7}{More on Strings}{section.7}% 60
+\BOOKMARK [2][-]{subsection.7.8}{Tuples}{section.7}% 61
+\BOOKMARK [2][-]{subsection.7.9}{Tuple or List?}{section.7}% 62
+\BOOKMARK [2][-]{subsection.7.10}{Tuple Examples}{section.7}% 63
+\BOOKMARK [1][-]{section.8}{Sets}{}% 64
+\BOOKMARK [2][-]{subsection.8.1}{What is a set?}{section.8}% 65
+\BOOKMARK [2][-]{subsection.8.2}{Adding and Removing Items}{section.8}% 66
+\BOOKMARK [2][-]{subsection.8.3}{Iterating Over a Set}{section.8}% 67
+\BOOKMARK [2][-]{subsection.8.4}{Set Operations}{section.8}% 68
+\BOOKMARK [2][-]{subsection.8.5}{What Else Can We Do with a Set?}{section.8}% 69
+\BOOKMARK [2][-]{subsection.8.6}{Why Sets?}{section.8}% 70
+\BOOKMARK [1][-]{section.9}{Dictionaries}{}% 71
+\BOOKMARK [2][-]{subsection.9.1}{Dictionaries, Keys, and Values}{section.9}% 72
+\BOOKMARK [2][-]{subsection.9.2}{Membership Test}{section.9}% 73
+\BOOKMARK [2][-]{subsection.9.3}{Updating a Dictionary}{section.9}% 74
+\BOOKMARK [3][-]{subsubsection.9.3.1}{Adding Items}{subsection.9.3}% 75
+\BOOKMARK [3][-]{subsubsection.9.3.2}{Modifying Items}{subsection.9.3}% 76
+\BOOKMARK [3][-]{subsubsection.9.3.3}{Deleting Items}{subsection.9.3}% 77
+\BOOKMARK [2][-]{subsection.9.4}{Iterating Over a Dictionary}{section.9}% 78
+\BOOKMARK [2][-]{subsection.9.5}{What Else Can We Do With a Dictionary?}{section.9}% 79
+\BOOKMARK [2][-]{subsection.9.6}{Sorting Fun}{section.9}% 80
+\BOOKMARK [3][-]{subsubsection.9.6.1}{The Basics}{subsection.9.6}% 81
+\BOOKMARK [3][-]{subsubsection.9.6.2}{Reverse Sort}{subsection.9.6}% 82
+\BOOKMARK [3][-]{subsubsection.9.6.3}{Sorting with a key function}{subsection.9.6}% 83
+\BOOKMARK [3][-]{subsubsection.9.6.4}{Sorting a dictionary by value}{subsection.9.6}% 84
+\BOOKMARK [3][-]{subsubsection.9.6.5}{max and min with a key}{subsection.9.6}% 85
+\BOOKMARK [2][-]{subsection.9.7}{A Dictionary Example}{section.9}% 86
+\BOOKMARK [1][-]{section.10}{Files}{}% 87
+\BOOKMARK [2][-]{subsection.10.1}{Opening a File}{section.10}% 88
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Absolute and Relative Paths}{subsection.10.1}% 89
+\BOOKMARK [3][-]{subsubsection.10.1.2}{Mode}{subsection.10.1}% 90
+\BOOKMARK [3][-]{subsubsection.10.1.3}{Encoding}{subsection.10.1}% 91
+\BOOKMARK [2][-]{subsection.10.2}{Closing a File}{section.10}% 92
+\BOOKMARK [2][-]{subsection.10.3}{A Better Way - The "With" Statement}{section.10}% 93
+\BOOKMARK [3][-]{subsubsection.10.3.1}{Advantage}{subsection.10.3}% 94
+\BOOKMARK [2][-]{subsection.10.4}{Reading the Whole File}{section.10}% 95
+\BOOKMARK [2][-]{subsection.10.5}{Reading One Line at a Time}{section.10}% 96
+\BOOKMARK [2][-]{subsection.10.6}{One Word at a Time?}{section.10}% 97
+\BOOKMARK [2][-]{subsection.10.7}{Writing to a File}{section.10}% 98
+\BOOKMARK [3][-]{subsubsection.10.7.1}{Appending to a file - the 'a' mode}{subsection.10.7}% 99
+\BOOKMARK [3][-]{subsubsection.10.7.2}{Overwriting a file - the 'w' mode}{subsection.10.7}% 100
+\BOOKMARK [2][-]{subsection.10.8}{Creating a New File}{section.10}% 101
+\BOOKMARK [2][-]{subsection.10.9}{A Spell Checker Example}{section.10}% 102
+\BOOKMARK [1][-]{section.11}{Object-Oriented Programming}{}% 103
+\BOOKMARK [2][-]{subsection.11.1}{When and Why?}{section.11}% 104
+\BOOKMARK [2][-]{subsection.11.2}{What's an Object?}{section.11}% 105
+\BOOKMARK [2][-]{subsection.11.3}{Classes}{section.11}% 106
+\BOOKMARK [2][-]{subsection.11.4}{Instances}{section.11}% 107
+\BOOKMARK [2][-]{subsection.11.5}{Instance Variables}{section.11}% 108
+\BOOKMARK [2][-]{subsection.11.6}{Identity}{section.11}% 109
+\BOOKMARK [3][-]{subsubsection.11.6.1}{Identity and Assignment}{subsection.11.6}% 110
+\BOOKMARK [2][-]{subsection.11.7}{Methods}{section.11}% 111
+\BOOKMARK [3][-]{subsubsection.11.7.1}{Defining a method}{subsection.11.7}% 112
+\BOOKMARK [3][-]{subsubsection.11.7.2}{Invoking a method}{subsection.11.7}% 113
+\BOOKMARK [2][-]{subsection.11.8}{More Methods for Our Car}{section.11}% 114
+\BOOKMARK [3][-]{subsubsection.11.8.1}{Behavior: Driving the car}{subsection.11.8}% 115
+\BOOKMARK [3][-]{subsubsection.11.8.2}{Method Definition: drive}{subsection.11.8}% 116
+\BOOKMARK [2][-]{subsection.11.9}{Class Variables}{section.11}% 117
+\BOOKMARK [2][-]{subsection.11.10}{Private Instance Variables?}{section.11}% 118
+\BOOKMARK [2][-]{subsection.11.11}{Why OOP?}{section.11}% 119
+\BOOKMARK [1][-]{section.12}{Magic Methods}{}% 120
+\BOOKMARK [2][-]{subsection.12.1}{What are Magic Methods?}{section.12}% 121
+\BOOKMARK [2][-]{subsection.12.2}{The \137\137str\137\137 Methods}{section.12}% 122
+\BOOKMARK [2][-]{subsection.12.3}{Operator Overloading}{section.12}% 123
+\BOOKMARK [2][-]{subsection.12.4}{Rich Comparison Models}{section.12}% 124
+\BOOKMARK [3][-]{subsubsection.12.4.1}{< and > Conversions?}{subsection.12.4}% 125
+\BOOKMARK [2][-]{subsection.12.5}{Arithmetic and Logical Operators Methods}{section.12}% 126
+\BOOKMARK [2][-]{subsection.12.6}{Indexing}{section.12}% 127
+\BOOKMARK [1][-]{section.13}{Inheritance and Composition}{}% 128
+\BOOKMARK [2][-]{subsection.13.1}{Why Inheritance?}{section.13}% 129
+\BOOKMARK [2][-]{subsection.13.2}{A Bank Account Example}{section.13}% 130
+\BOOKMARK [2][-]{subsection.13.3}{Override or Inherit?}{section.13}% 131
+\BOOKMARK [2][-]{subsection.13.4}{IS-A Relationship}{section.13}% 132
+\BOOKMARK [2][-]{subsection.13.5}{Override or Inherit?}{section.13}% 133
+\BOOKMARK [2][-]{subsection.13.6}{Multiple Inheritance}{section.13}% 134
+\BOOKMARK [2][-]{subsection.13.7}{isinstance and issubclass}{section.13}% 135
+\BOOKMARK [2][-]{subsection.13.8}{Composition}{section.13}% 136
+\BOOKMARK [1][-]{section.14}{Advanced OOP}{}% 137
+\BOOKMARK [2][-]{subsection.14.1}{Encapsulation and Attribute Access}{section.14}% 138
+\BOOKMARK [2][-]{subsection.14.2}{Properties}{section.14}% 139
+\BOOKMARK [2][-]{subsection.14.3}{Static Methods}{section.14}% 140
+\BOOKMARK [2][-]{subsection.14.4}{Class Methods}{section.14}% 141
+\BOOKMARK [1][-]{section.15}{Exceptions}{}% 142
+\BOOKMARK [2][-]{subsection.15.1}{What is an Exception?}{section.15}% 143
+\BOOKMARK [2][-]{subsection.15.2}{Handling Exceptions}{section.15}% 144
+\BOOKMARK [2][-]{subsection.15.3}{The Exception Object}{section.15}% 145
+\BOOKMARK [2][-]{subsection.15.4}{Multiple Except Clauses}{section.15}% 146
+\BOOKMARK [2][-]{subsection.15.5}{The else Clause}{section.15}% 147
+\BOOKMARK [2][-]{subsection.15.6}{The finally Clause}{section.15}% 148
+\BOOKMARK [2][-]{subsection.15.7}{Raising Exceptions}{section.15}% 149
+\BOOKMARK [2][-]{subsection.15.8}{User-Defined Exceptions}{section.15}% 150
+\BOOKMARK [1][-]{section.16}{Iterators vs Generators}{}% 151
+\BOOKMARK [2][-]{subsection.16.1}{Sequences vs Iterators}{section.16}% 152
+\BOOKMARK [2][-]{subsection.16.2}{Iterators' Magic Methods}{section.16}% 153
+\BOOKMARK [2][-]{subsection.16.3}{An Infinite Iterator Example}{section.16}% 154
+\BOOKMARK [2][-]{subsection.16.4}{StopIteration}{section.16}% 155
+\BOOKMARK [2][-]{subsection.16.5}{What Can We Do with Iterators?}{section.16}% 156
+\BOOKMARK [2][-]{subsection.16.6}{Iterators' Limitations}{section.16}% 157
+\BOOKMARK [2][-]{subsection.16.7}{Generators}{section.16}% 158
+\BOOKMARK [2][-]{subsection.16.8}{What Can We Do with Generators?}{section.16}% 159
+\BOOKMARK [2][-]{subsection.16.9}{Iterables}{section.16}% 160
+\BOOKMARK [1][-]{section.17}{Comprehensions}{}% 161
+\BOOKMARK [2][-]{subsection.17.1}{Syntax}{section.17}% 162
+\BOOKMARK [2][-]{subsection.17.2}{Initialization with Comprehension}{section.17}% 163
+\BOOKMARK [2][-]{subsection.17.3}{Mapping with Comprehension}{section.17}% 164
+\BOOKMARK [2][-]{subsection.17.4}{Filtering with Comprehension}{section.17}% 165
+\BOOKMARK [2][-]{subsection.17.5}{Dictionary COmprehension}{section.17}% 166
+\BOOKMARK [3][-]{subsubsection.17.5.1}{Initializing a dictionary}{subsection.17.5}% 167
+\BOOKMARK [3][-]{subsubsection.17.5.2}{Mapping}{subsection.17.5}% 168
+\BOOKMARK [3][-]{subsubsection.17.5.3}{Filtering}{subsection.17.5}% 169
+\BOOKMARK [3][-]{subsubsection.17.5.4}{Swapping Keys and Values}{subsection.17.5}% 170
+\BOOKMARK [2][-]{subsection.17.6}{Set Comprehension}{section.17}% 171
+\BOOKMARK [1][-]{section.18}{Python Modules and the Standard Library}{}% 172
+\BOOKMARK [2][-]{subsection.18.1}{Namespace and Scope}{section.18}% 173
+\BOOKMARK [2][-]{subsection.18.2}{Module Directory}{section.18}% 174
+\BOOKMARK [2][-]{subsection.18.3}{The Standard Library}{section.18}% 175
+\BOOKMARK [2][-]{subsection.18.4}{The sys Module}{section.18}% 176
+\BOOKMARK [3][-]{subsubsection.18.4.1}{The sys.argv variable}{subsection.18.4}% 177
+\BOOKMARK [3][-]{subsubsection.18.4.2}{sys.exit\(\)}{subsection.18.4}% 178
+\BOOKMARK [3][-]{subsubsection.18.4.3}{Standard Input, Output and Error}{subsection.18.4}% 179
+\BOOKMARK [1][-]{section.19}{Regular Expressions}{}% 180
+\BOOKMARK [2][-]{subsection.19.1}{What are Regular Expressions?}{section.19}% 181
+\BOOKMARK [2][-]{subsection.19.2}{String Methods or Regular Expressions?}{section.19}% 182
+\BOOKMARK [2][-]{subsection.19.3}{Regular Expressions with Pythex}{section.19}% 183
+\BOOKMARK [3][-]{subsubsection.19.3.1}{Matching characters}{subsection.19.3}% 184
+\BOOKMARK [3][-]{subsubsection.19.3.2}{Metacharacters}{subsection.19.3}% 185
+\BOOKMARK [3][-]{subsubsection.19.3.3}{[] - set of characters}{subsection.19.3}% 186
+\BOOKMARK [3][-]{subsubsection.19.3.4}{Negating the Set}{subsection.19.3}% 187
+\BOOKMARK [3][-]{subsubsection.19.3.5}{ . - Any character}{subsection.19.3}% 188
+\BOOKMARK [3][-]{subsubsection.19.3.6}{\044 - beginning and end}{subsection.19.3}% 189
+\BOOKMARK [3][-]{subsubsection.19.3.7}{Repeating Characters: *, + and ?}{subsection.19.3}% 190
+\BOOKMARK [3][-]{subsubsection.19.3.8}{Repeating Characters: }{subsection.19.3}% 191
+\BOOKMARK [3][-]{subsubsection.19.3.9}{m,n means repeat the previous character\(s\) m to n times}{subsection.19.3}% 192
+\BOOKMARK [3][-]{subsubsection.19.3.10}{Or: |}{subsection.19.3}% 193
+\BOOKMARK [3][-]{subsubsection.19.3.11}{Parentheses - \(\)}{subsection.19.3}% 194
+\BOOKMARK [2][-]{subsection.19.4}{The RE Module}{section.19}% 195
+\BOOKMARK [2][-]{subsection.19.5}{Raw Strings}{section.19}% 196
+\BOOKMARK [2][-]{subsection.19.6}{re.match and Match Objects}{section.19}% 197
+\BOOKMARK [3][-]{subsubsection.19.6.1}{What’s a match object and how can we access it?}{subsection.19.6}% 198
+\BOOKMARK [2][-]{subsection.19.7}{RE Flags}{section.19}% 199
+\BOOKMARK [2][-]{subsection.19.8}{re.search}{section.19}% 200
+\BOOKMARK [2][-]{subsection.19.9}{re.findall}{section.19}% 201
+\BOOKMARK [2][-]{subsection.19.10}{re.finditer}{section.19}% 202
+\BOOKMARK [2][-]{subsection.19.11}{Capture Groups}{section.19}% 203
+\BOOKMARK [2][-]{subsection.19.12}{Compiling Regular Expressions}{section.19}% 204
+\BOOKMARK [1][-]{section.20}{The urllib Package}{}% 205
+\BOOKMARK [2][-]{subsection.20.1}{Web Background and Terminology}{section.20}% 206
+\BOOKMARK [2][-]{subsection.20.2}{urllib.request}{section.20}% 207
+\BOOKMARK [3][-]{subsubsection.20.2.1}{Closing the URL}{subsection.20.2}% 208
+\BOOKMARK [3][-]{subsubsection.20.2.2}{Capabilities and Limitations}{subsection.20.2}% 209
+\BOOKMARK [2][-]{subsection.20.3}{urllib.parse}{section.20}% 210
+\BOOKMARK [3][-]{subsubsection.20.3.1}{urllib.parse.urlparse}{subsection.20.3}% 211
+\BOOKMARK [3][-]{subsubsection.20.3.2}{Absolute and Relative URLs}{subsection.20.3}% 212
+\BOOKMARK [3][-]{subsubsection.20.3.3}{urllib.parse.urljoin}{subsection.20.3}% 213
+\BOOKMARK [2][-]{subsection.20.4}{urllib.error}{section.20}% 214
+\BOOKMARK [2][-]{subsection.20.5}{Polite Crawling}{section.20}% 215
+\BOOKMARK [2][-]{subsection.20.6}{urllib.robotparser}{section.20}% 216
+\BOOKMARK [1][-]{section.21}{GUI}{}% 217
+\BOOKMARK [2][-]{subsection.21.1}{What's a GUI?}{section.21}% 218
+\BOOKMARK [2][-]{subsection.21.2}{Event-Driven Programming}{section.21}% 219
+\BOOKMARK [2][-]{subsection.21.3}{Our First GUI Application}{section.21}% 220
+\BOOKMARK [3][-]{subsubsection.21.3.1}{Importing tkinter}{subsection.21.3}% 221
+\BOOKMARK [3][-]{subsubsection.21.3.2}{Creating the main window}{subsection.21.3}% 222
+\BOOKMARK [3][-]{subsubsection.21.3.3}{Entering the Event Loop}{subsection.21.3}% 223
+\BOOKMARK [2][-]{subsection.21.4}{General GUI Design}{section.21}% 224
+\BOOKMARK [2][-]{subsection.21.5}{Widgets}{section.21}% 225
+\BOOKMARK [2][-]{subsection.21.6}{The Label Widget}{section.21}% 226
+\BOOKMARK [2][-]{subsection.21.7}{Parents and Packing}{section.21}% 227
+\BOOKMARK [2][-]{subsection.21.8}{The Frame Widget}{section.21}% 228
+\BOOKMARK [2][-]{subsection.21.9}{The Button Widget}{section.21}% 229
+\BOOKMARK [2][-]{subsection.21.10}{The Canvas Widget}{section.21}% 230
+\BOOKMARK [2][-]{subsection.21.11}{Configuring Options}{section.21}% 231
+\BOOKMARK [3][-]{subsubsection.21.11.1}{Configuring Canvas Object Options}{subsection.21.11}% 232
+\BOOKMARK [2][-]{subsection.21.12}{More Methods for Our Canvas}{section.21}% 233
+\BOOKMARK [2][-]{subsection.21.13}{Geometry Managers}{section.21}% 234
+\BOOKMARK [2][-]{subsection.21.14}{Events and Handlers}{section.21}% 235
+\BOOKMARK [3][-]{subsubsection.21.14.1}{The Event Object}{subsection.21.14}% 236
+\BOOKMARK [2][-]{subsection.21.15}{A simple Drawing Application}{section.21}% 237
+\BOOKMARK [2][-]{subsection.21.16}{A Simple Coloring Application}{section.21}% 238
+\BOOKMARK [1][-]{section.22}{Assertions and Unit Testing}{}% 239
+\BOOKMARK [2][-]{subsection.22.1}{Assertions}{section.22}% 240
+\BOOKMARK [3][-]{subsubsection.22.1.1}{Optimize Flags}{subsection.22.1}% 241
+\BOOKMARK [3][-]{subsubsection.22.1.2}{Assertions or Exceptions?}{subsection.22.1}% 242
+\BOOKMARK [2][-]{subsection.22.2}{Unit Testing and TDD}{section.22}% 243
+\BOOKMARK [2][-]{subsection.22.3}{The unittest Module}{section.22}% 244
+\BOOKMARK [2][-]{subsection.22.4}{Test Cases and Test Fixtures}{section.22}% 245
+\BOOKMARK [2][-]{subsection.22.5}{Tests and Assertion Methods}{section.22}% 246
+\BOOKMARK [2][-]{subsection.22.6}{Unit Testing Example}{section.22}% 247
+\BOOKMARK [2][-]{subsection.22.7}{Running the Tests}{section.22}% 248
+\BOOKMARK [2][-]{subsection.22.8}{Example - Testing Functions}{section.22}% 249
+\BOOKMARK [1][-]{section.23}{More on Functions}{}% 250
+\BOOKMARK [2][-]{subsection.23.1}{Variable Number of Arguments}{section.23}% 251
+\BOOKMARK [3][-]{subsubsection.23.1.1}{Variable Keyword Arguments}{subsection.23.1}% 252
+\BOOKMARK [1][-]{section.24}{More Python Modules}{}% 253
+\BOOKMARK [2][-]{subsection.24.1}{The OS Module}{section.24}% 254
+\BOOKMARK [3][-]{subsubsection.24.1.1}{os.path.join\(\)}{subsection.24.1}% 255
+\BOOKMARK [3][-]{subsubsection.24.1.2}{os.path.split\(\)}{subsection.24.1}% 256
+\BOOKMARK [3][-]{subsubsection.24.1.3}{os.path.splitext\(\)}{subsection.24.1}% 257
+\BOOKMARK [3][-]{subsubsection.24.1.4}{os.path.realpath\(\)}{subsection.24.1}% 258
+\BOOKMARK [3][-]{subsubsection.24.1.5}{No Guarantee of Existence}{subsection.24.1}% 259
+\BOOKMARK [2][-]{subsection.24.2}{Copy and Deep Copy}{section.24}% 260
+\BOOKMARK [3][-]{subsubsection.24.2.1}{The copy module}{subsection.24.2}% 261
